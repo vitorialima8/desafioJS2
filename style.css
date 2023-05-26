@@ -1,0 +1,18 @@
+input{
+    display: flex;
+    width: 250px;
+    height: 30px;
+    font-size: larger;
+    background: rgb(195, 252, 195);
+    border-radius: 10px;
+    text-align: center;
+}
+.enviar:hover{
+    background-color: rgb(112, 148, 148);
+    cursor: pointer;
+    text-align: center;
+}
+span{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
